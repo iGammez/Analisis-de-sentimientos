@@ -1,4 +1,8 @@
-**Características**
+# YouTube Automatizado
+
+Este script de Python permite interactuar de forma automatizada con la API de YouTube para recopilar datos de videos específicos, como comentarios, vistas, entre otros.
+
+## Características
 
 - **Interacción con la API de YouTube:** Utiliza la API de YouTube para obtener información detallada sobre videos.
 - **Extracción de datos:** Recopila datos como el ID del video, comentarios, cantidad de vistas, likes, y más.
@@ -44,11 +48,6 @@ python youtube_automatizado.py
 
 - **Uso de la API:** Asegúrate de respetar los límites de la API de YouTube y no exceder el límite de cuotas.
 - **Seguridad:** No compartas tu clave de API públicamente. Manténla segura y fuera de repositorios públicos.
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, siéntete libre de enviar un pull request o abrir un issue en el repositorio.
-
 ## Licencia
 
 Este proyecto está licenciado bajo la MIT License. Consulta el archivo `LICENSE` para obtener más detalles.
